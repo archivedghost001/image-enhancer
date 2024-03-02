@@ -9,6 +9,9 @@ A basic image enhancer to enhance low quality images using Python Coding Languag
 - sys
 - tqdm (taqaddum = process)
 
+## Third Party App/Web
+Link = https://www.cutout.pro/
+
 ## LICENSES
 
 Copyright (c) 2024 RyTech Weapons and Tech
